@@ -1,3 +1,7 @@
+# Update Note
+
+This is stil being developed. Expect a ready product in about a week or so.
+
 # Description
 
 Adam is a boilerplate framework for developing python web applications. The underlying web framework is Flask, a python microframework based on werkzeug, jinja2 and good intentions. Adam is highly inspired by EmeraldBox and Backyard and Adam itself is a combination of both framework so you can have a speedy fullstack development
